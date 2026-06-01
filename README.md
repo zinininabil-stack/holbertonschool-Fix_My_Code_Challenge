@@ -1,2 +1,2 @@
 # holbertonschool-Fix_My_Code_Challenge
-Fix code challenge
+Fix code challenges
